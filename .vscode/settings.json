@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "library/**/*.jar",
+        "Practice/lib/commons-email-1.5.jar",
+        "Practice/lib/commons-io-2.11.0.jar",
+        "Practice/lib/commons-lang3-3.12.0.jar",
+        "Practice/lib/javax.activation-1.2.0.jar",
+        "Practice/lib/javax.mail-1.6.2.jar",
+        "Practice/lib/ojdbc8.jar"
+    ]
+}
